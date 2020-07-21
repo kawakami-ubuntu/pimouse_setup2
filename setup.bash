@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Kotaro Kawakami
+#Written by Kotaro
 
 exec 2> /tmp/setup.log
      
